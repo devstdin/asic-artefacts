@@ -1,0 +1,836 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8_hvt and Circuit 2 cell sky130_fd_pr__pfet_01v8_hvt are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_01v8_hvt and sky130_fd_pr__pfet_01v8_hvt are equivalent.
+
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: CLK
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: D
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: RESET_B
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__dfrtp_1 (1) disconnected node: Q
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__dfrtp_1 and sky130_fd_sc_hd__dfrtp_1 are equivalent.
+
+Cell sky130_fd_sc_hd__decap_3 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__decap_3 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__decap_3 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__decap_3 (1) disconnected node: VPWR
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__decap_3 and sky130_fd_sc_hd__decap_3 are equivalent.
+
+Cell sky130_fd_sc_hd__decap_8 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__decap_8 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__decap_8 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__decap_8 (1) disconnected node: VPWR
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__decap_8 and sky130_fd_sc_hd__decap_8 are equivalent.
+
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__clkbuf_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__clkbuf_1 and sky130_fd_sc_hd__clkbuf_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a21o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a21o_1 and sky130_fd_sc_hd__a21o_1 are equivalent.
+
+Cell sky130_ef_sc_hd__decap_12 (1) disconnected node: VGND
+Cell sky130_ef_sc_hd__decap_12 (1) disconnected node: VPWR
+Cell sky130_ef_sc_hd__decap_12 (1) disconnected node: VPB
+Cell sky130_ef_sc_hd__decap_12 (1) disconnected node: VNB
+Equate elements:  no current cell.
+Device classes sky130_ef_sc_hd__decap_12 and sky130_ef_sc_hd__decap_12 are equivalent.
+
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__dlygate4sd3_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__dlygate4sd3_1 and sky130_fd_sc_hd__dlygate4sd3_1 are equivalent.
+
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: A
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__clkbuf_4 (1) disconnected node: X
+Class sky130_fd_sc_hd__clkbuf_4 (0):  Merged 6 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__clkbuf_4 and sky130_fd_sc_hd__clkbuf_4 are equivalent.
+
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: A_N
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__and2b_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__and2b_1 and sky130_fd_sc_hd__and2b_1 are equivalent.
+
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: A0
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: S
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__mux2_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__mux2_1 and sky130_fd_sc_hd__mux2_1 are equivalent.
+
+Cell sky130_fd_sc_hd__decap_4 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__decap_4 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__decap_4 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__decap_4 (1) disconnected node: VPWR
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__decap_4 and sky130_fd_sc_hd__decap_4 are equivalent.
+
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__buf_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__buf_1 and sky130_fd_sc_hd__buf_1 are equivalent.
+
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__o21ai_1 (1) disconnected node: Y
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__o21ai_1 and sky130_fd_sc_hd__o21ai_1 are equivalent.
+
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: A
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__inv_2 (1) disconnected node: Y
+Class sky130_fd_sc_hd__inv_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__inv_2 and sky130_fd_sc_hd__inv_2 are equivalent.
+
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: C
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__nand3_1 (1) disconnected node: Y
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__nand3_1 and sky130_fd_sc_hd__nand3_1 are equivalent.
+
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: A1_N
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: A2_N
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: B2
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__o2bb2a_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__o2bb2a_1 and sky130_fd_sc_hd__o2bb2a_1 are equivalent.
+
+Cell sky130_fd_sc_hd__decap_6 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__decap_6 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__decap_6 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__decap_6 (1) disconnected node: VPWR
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__decap_6 and sky130_fd_sc_hd__decap_6 are equivalent.
+
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: A3
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a31o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a31o_1 and sky130_fd_sc_hd__a31o_1 are equivalent.
+
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: A
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__buf_2 (1) disconnected node: X
+Class sky130_fd_sc_hd__buf_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__buf_2 and sky130_fd_sc_hd__buf_2 are equivalent.
+
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: A
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__clkbuf_16 (1) disconnected node: X
+Class sky130_fd_sc_hd__clkbuf_16 (0):  Merged 36 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__clkbuf_16 and sky130_fd_sc_hd__clkbuf_16 are equivalent.
+
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: C
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__and3_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__and3_1 and sky130_fd_sc_hd__and3_1 are equivalent.
+
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: A
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__clkbuf_2 (1) disconnected node: X
+Class sky130_fd_sc_hd__clkbuf_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__clkbuf_2 and sky130_fd_sc_hd__clkbuf_2 are equivalent.
+
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: A
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: B
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__nor2_2 (1) disconnected node: Y
+Class sky130_fd_sc_hd__nor2_2 (0):  Merged 4 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__nor2_2 and sky130_fd_sc_hd__nor2_2 are equivalent.
+
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: A
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: B_N
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__or2b_2 (1) disconnected node: X
+Class sky130_fd_sc_hd__or2b_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__or2b_2 and sky130_fd_sc_hd__or2b_2 are equivalent.
+
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: A3
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__o31a_2 (1) disconnected node: X
+Class sky130_fd_sc_hd__o31a_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__o31a_2 and sky130_fd_sc_hd__o31a_2 are equivalent.
+
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__o21a_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__o21a_1 and sky130_fd_sc_hd__o21a_1 are equivalent.
+
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__or2_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__or2_1 and sky130_fd_sc_hd__or2_1 are equivalent.
+
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: CLK
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: D
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: SET_B
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__dfstp_2 (1) disconnected node: Q
+Class sky130_fd_sc_hd__dfstp_2 (0):  Merged 2 parallel devices.
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__dfstp_2 and sky130_fd_sc_hd__dfstp_2 are equivalent.
+
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__nor2_1 (1) disconnected node: Y
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__nor2_1 and sky130_fd_sc_hd__nor2_1 are equivalent.
+
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: A
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: B
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__nand2_1 (1) disconnected node: Y
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__nand2_1 and sky130_fd_sc_hd__nand2_1 are equivalent.
+
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: CLK
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: D
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__dfxtp_1 (1) disconnected node: Q
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__dfxtp_1 and sky130_fd_sc_hd__dfxtp_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a21oi_1 (1) disconnected node: Y
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a21oi_1 and sky130_fd_sc_hd__a21oi_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: B2
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a22o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a22o_1 and sky130_fd_sc_hd__a22o_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: A3
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: B2
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a32o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a32o_1 and sky130_fd_sc_hd__a32o_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: A1
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: A2
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: C1
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a211o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a211o_1 and sky130_fd_sc_hd__a211o_1 are equivalent.
+
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: A1_N
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: A2_N
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: B1
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: B2
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: VGND
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: VNB
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: VPB
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: VPWR
+Cell sky130_fd_sc_hd__a2bb2o_1 (1) disconnected node: X
+Equate elements:  no current cell.
+Device classes sky130_fd_sc_hd__a2bb2o_1 and sky130_fd_sc_hd__a2bb2o_1 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__cap_mim_m3_1 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_1 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__cap_mim_m3_1 and sky130_fd_pr__cap_mim_m3_1 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__cap_mim_m3_2 and Circuit 2 cell sky130_fd_pr__cap_mim_m3_2 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__cap_mim_m3_2 and sky130_fd_pr__cap_mim_m3_2 are equivalent.
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_VYYE8Z in circuit tg (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_UEQJRX in circuit tg (0)(1 instance)
+
+Subcircuit summary:
+Circuit 1: tg                              |Circuit 2: tg                              
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_g5v0d10v5 (1)           |sky130_fd_pr__nfet_g5v0d10v5 (1)           
+sky130_fd_pr__pfet_g5v0d10v5 (1)           |sky130_fd_pr__pfet_g5v0d10v5 (1)           
+Number of devices: 2                       |Number of devices: 2                       
+Number of nets: 6                          |Number of nets: 6                          
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: tg                              |Circuit 2: tg                              
+-------------------------------------------|-------------------------------------------
+N                                          |N                                          
+VDD                                        |VDD                                        
+P                                          |P                                          
+VSS                                        |VSS                                        
+S1                                         |S1                                         
+S2                                         |S2                                         
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes tg and tg are equivalent.
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_VYYE8Z in circuit lsdn (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_UEQJRX in circuit lsdn (0)(2 instances)
+
+Subcircuit summary:
+Circuit 1: lsdn                            |Circuit 2: lsdn                            
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_g5v0d10v5 (2)           |sky130_fd_pr__nfet_g5v0d10v5 (2)           
+sky130_fd_pr__pfet_g5v0d10v5 (2)           |sky130_fd_pr__pfet_g5v0d10v5 (2)           
+Number of devices: 4                       |Number of devices: 4                       
+Number of nets: 5                          |Number of nets: 5                          
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: lsdn                            |Circuit 2: lsdn                            
+-------------------------------------------|-------------------------------------------
+IN                                         |IN                                         
+OUTP                                       |OUTP                                       
+OUTN                                       |OUTN                                       
+VDD                                        |VDD                                        
+VSS                                        |VSS                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes lsdn and lsdn are equivalent.
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_UEQWT2 in circuit lsup (0)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_3M3LQB in circuit lsup (0)(2 instances)
+
+Subcircuit summary:
+Circuit 1: lsup                            |Circuit 2: lsup                            
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_g5v0d10v5 (2)           |sky130_fd_pr__nfet_g5v0d10v5 (2)           
+sky130_fd_pr__pfet_g5v0d10v5 (2)           |sky130_fd_pr__pfet_g5v0d10v5 (2)           
+Number of devices: 4                       |Number of devices: 4                       
+Number of nets: 6                          |Number of nets: 6                          
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: lsup                            |Circuit 2: lsup                            
+-------------------------------------------|-------------------------------------------
+INN                                        |INN                                        
+INP                                        |INP                                        
+VDD                                        |VDD                                        
+VSS                                        |VSS                                        
+OUTP                                       |OUTP                                       
+OUTN                                       |OUTN                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes lsup and lsup are equivalent.
+Flattening unmatched subcell sky130_fd_sc_hd__fill_1 in circuit sar_ctrl (1)(57 instances)
+Flattening unmatched subcell sky130_fd_sc_hd__tapvpwrvgnd_1 in circuit sar_ctrl (1)(52 instances)
+Flattening unmatched subcell sky130_fd_sc_hd__fill_2 in circuit sar_ctrl (1)(28 instances)
+
+Class sar_ctrl (0):  Merged 204 parallel devices.
+Class sar_ctrl (1):  Merged 204 parallel devices.
+Subcircuit summary:
+Circuit 1: sar_ctrl                        |Circuit 2: sar_ctrl                        
+-------------------------------------------|-------------------------------------------
+sky130_fd_sc_hd__dfrtp_1 (25)              |sky130_fd_sc_hd__dfrtp_1 (25)              
+sky130_fd_sc_hd__decap_3 (93->1)           |sky130_fd_sc_hd__decap_3 (93->1)           
+sky130_fd_sc_hd__decap_8 (23->1)           |sky130_fd_sc_hd__decap_8 (23->1)           
+sky130_fd_sc_hd__clkbuf_1 (34)             |sky130_fd_sc_hd__clkbuf_1 (34)             
+sky130_fd_sc_hd__a21o_1 (7)                |sky130_fd_sc_hd__a21o_1 (7)                
+sky130_ef_sc_hd__decap_12 (49->1)          |sky130_ef_sc_hd__decap_12 (49->1)          
+sky130_fd_sc_hd__dlygate4sd3_1 (33)        |sky130_fd_sc_hd__dlygate4sd3_1 (33)        
+sky130_fd_sc_hd__clkbuf_4 (13)             |sky130_fd_sc_hd__clkbuf_4 (13)             
+sky130_fd_sc_hd__and2b_1 (28)              |sky130_fd_sc_hd__and2b_1 (28)              
+sky130_fd_sc_hd__mux2_1 (14)               |sky130_fd_sc_hd__mux2_1 (14)               
+sky130_fd_sc_hd__decap_4 (27->1)           |sky130_fd_sc_hd__decap_4 (27->1)           
+sky130_fd_sc_hd__buf_1 (2)                 |sky130_fd_sc_hd__buf_1 (2)                 
+sky130_fd_sc_hd__o21ai_1 (1)               |sky130_fd_sc_hd__o21ai_1 (1)               
+sky130_fd_sc_hd__inv_2 (10)                |sky130_fd_sc_hd__inv_2 (10)                
+sky130_fd_sc_hd__nand3_1 (1)               |sky130_fd_sc_hd__nand3_1 (1)               
+sky130_fd_sc_hd__o2bb2a_1 (6)              |sky130_fd_sc_hd__o2bb2a_1 (6)              
+sky130_fd_sc_hd__decap_6 (17->1)           |sky130_fd_sc_hd__decap_6 (17->1)           
+sky130_fd_sc_hd__a31o_1 (6)                |sky130_fd_sc_hd__a31o_1 (6)                
+sky130_fd_sc_hd__buf_2 (6)                 |sky130_fd_sc_hd__buf_2 (6)                 
+sky130_fd_sc_hd__clkbuf_16 (5)             |sky130_fd_sc_hd__clkbuf_16 (5)             
+sky130_fd_sc_hd__and3_1 (6)                |sky130_fd_sc_hd__and3_1 (6)                
+sky130_fd_sc_hd__clkbuf_2 (5)              |sky130_fd_sc_hd__clkbuf_2 (5)              
+sky130_fd_sc_hd__nor2_2 (1)                |sky130_fd_sc_hd__nor2_2 (1)                
+sky130_fd_sc_hd__or2b_2 (1)                |sky130_fd_sc_hd__or2b_2 (1)                
+sky130_fd_sc_hd__o31a_2 (1)                |sky130_fd_sc_hd__o31a_2 (1)                
+sky130_fd_sc_hd__o21a_1 (1)                |sky130_fd_sc_hd__o21a_1 (1)                
+sky130_fd_sc_hd__or2_1 (2)                 |sky130_fd_sc_hd__or2_1 (2)                 
+sky130_fd_sc_hd__dfstp_2 (1)               |sky130_fd_sc_hd__dfstp_2 (1)               
+sky130_fd_sc_hd__nor2_1 (4)                |sky130_fd_sc_hd__nor2_1 (4)                
+sky130_fd_sc_hd__nand2_1 (2)               |sky130_fd_sc_hd__nand2_1 (2)               
+sky130_fd_sc_hd__dfxtp_1 (8)               |sky130_fd_sc_hd__dfxtp_1 (8)               
+sky130_fd_sc_hd__a21oi_1 (1)               |sky130_fd_sc_hd__a21oi_1 (1)               
+sky130_fd_sc_hd__a22o_1 (8)                |sky130_fd_sc_hd__a22o_1 (8)                
+sky130_fd_sc_hd__a32o_1 (1)                |sky130_fd_sc_hd__a32o_1 (1)                
+sky130_fd_sc_hd__a211o_1 (1)               |sky130_fd_sc_hd__a211o_1 (1)               
+sky130_fd_sc_hd__a2bb2o_1 (1)              |sky130_fd_sc_hd__a2bb2o_1 (1)              
+Number of devices: 240                     |Number of devices: 240                     
+Number of nets: 241                        |Number of nets: 241                        
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: sar_ctrl                        |Circuit 2: sar_ctrl                        
+-------------------------------------------|-------------------------------------------
+cnv_busy                                   |cnv_busy                                   
+sdo                                        |sdo                                        
+sh_sw                                      |sh_sw                                      
+cmp                                        |cmp                                        
+cs                                         |cs                                         
+reset                                      |reset                                      
+sclk                                       |sclk                                       
+cap_sw[0]                                  |cap_sw[0]                                  
+cap_sw[2]                                  |cap_sw[2]                                  
+cap_sw[7]                                  |cap_sw[7]                                  
+cap_sw[6]                                  |cap_sw[6]                                  
+cap_sw[5]                                  |cap_sw[5]                                  
+cap_sw[1]                                  |cap_sw[1]                                  
+cap_sw[3]                                  |cap_sw[3]                                  
+cap_sw[4]                                  |cap_sw[4]                                  
+VGND                                       |VGND                                       
+VPWR                                       |VPWR                                       
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sar_ctrl and sar_ctrl are equivalent.
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_NASXE7 in circuit cmp (0)(6 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_PCRJQC in circuit cmp (0)(11 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_64LW2M in circuit cmp (0)(23 instances)
+Flattening unmatched subcell sky130_fd_pr__nfet_g5v0d10v5_CAVVM5 in circuit cmp (0)(1 instance)
+Flattening unmatched subcell sky130_fd_pr__pfet_g5v0d10v5_HM3L9X in circuit cmp (0)(6 instances)
+
+Class cmp (0):  Merged 13 parallel devices.
+Subcircuit summary:
+Circuit 1: cmp                             |Circuit 2: cmp                             
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_g5v0d10v5 (30->21)      |sky130_fd_pr__nfet_g5v0d10v5 (24->21)      
+sky130_fd_pr__pfet_g5v0d10v5 (17->13)      |sky130_fd_pr__pfet_g5v0d10v5 (16->13)      
+Number of devices: 34                      |Number of devices: 34                      
+Number of nets: 22                         |Number of nets: 22                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: cmp                             |Circuit 2: cmp                             
+-------------------------------------------|-------------------------------------------
+IB                                         |IB                                         
+CMPO                                       |CMPO                                       
+INP                                        |INP                                        
+INN                                        |INN                                        
+VDD                                        |VDD                                        
+VSS                                        |VSS                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes cmp and cmp are equivalent.
+
+Cell sar8_digital_openlane (1) disconnected node: DVDD
+Cell sar8_digital_openlane (1) disconnected node: CS
+Cell sar8_digital_openlane (1) disconnected node: RESET
+Cell sar8_digital_openlane (1) disconnected node: SCLK
+Cell sar8_digital_openlane (1) disconnected node: SDO
+Cell sar8_digital_openlane (1) disconnected node: CNV_BUSY
+Cell sar8_digital_openlane (1) disconnected node: COMP_IN
+Cell sar8_digital_openlane (1) disconnected node: SH
+Cell sar8_digital_openlane (1) disconnected node: C0
+Cell sar8_digital_openlane (1) disconnected node: C1
+Cell sar8_digital_openlane (1) disconnected node: C2
+Cell sar8_digital_openlane (1) disconnected node: C3
+Cell sar8_digital_openlane (1) disconnected node: C4
+Cell sar8_digital_openlane (1) disconnected node: C5
+Cell sar8_digital_openlane (1) disconnected node: C6
+Cell sar8_digital_openlane (1) disconnected node: C7
+Cell sar8_digital_openlane (1) disconnected node: VSS
+Flattening instances of sar_ctrl in cell sar8_digital_openlane (0) makes a better match
+Making another compare attempt.
+
+Cell sar8_digital_openlane (1) disconnected node: DVDD
+Cell sar8_digital_openlane (1) disconnected node: CS
+Cell sar8_digital_openlane (1) disconnected node: RESET
+Cell sar8_digital_openlane (1) disconnected node: SCLK
+Cell sar8_digital_openlane (1) disconnected node: SDO
+Cell sar8_digital_openlane (1) disconnected node: CNV_BUSY
+Cell sar8_digital_openlane (1) disconnected node: COMP_IN
+Cell sar8_digital_openlane (1) disconnected node: SH
+Cell sar8_digital_openlane (1) disconnected node: C0
+Cell sar8_digital_openlane (1) disconnected node: C1
+Cell sar8_digital_openlane (1) disconnected node: C2
+Cell sar8_digital_openlane (1) disconnected node: C3
+Cell sar8_digital_openlane (1) disconnected node: C4
+Cell sar8_digital_openlane (1) disconnected node: C5
+Cell sar8_digital_openlane (1) disconnected node: C6
+Cell sar8_digital_openlane (1) disconnected node: C7
+Cell sar8_digital_openlane (1) disconnected node: VSS
+Flattening instances of sky130_ef_sc_hd__decap_12 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a2bb2o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__clkbuf_16 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__o31a_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a211o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__o21a_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__dfrtp_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__or2_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__or2b_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__and3_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a22o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__nor2_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__nor2_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__o2bb2a_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__mux2_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a21oi_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__dfxtp_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a31o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__dlygate4sd3_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__o21ai_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a21o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__dfstp_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__a32o_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__nand2_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__and2b_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__nand3_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__buf_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__buf_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__clkbuf_1 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__clkbuf_2 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__clkbuf_4 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__decap_3 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__decap_4 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__decap_6 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__decap_8 in cell sar8_digital_openlane (0) makes a better match
+Flattening instances of sky130_fd_sc_hd__inv_2 in cell sar8_digital_openlane (0) makes a better match
+Making another compare attempt.
+
+Cell sar8_digital_openlane (1) disconnected node: DVDD
+Cell sar8_digital_openlane (1) disconnected node: CS
+Cell sar8_digital_openlane (1) disconnected node: RESET
+Cell sar8_digital_openlane (1) disconnected node: SCLK
+Cell sar8_digital_openlane (1) disconnected node: SDO
+Cell sar8_digital_openlane (1) disconnected node: CNV_BUSY
+Cell sar8_digital_openlane (1) disconnected node: COMP_IN
+Cell sar8_digital_openlane (1) disconnected node: SH
+Cell sar8_digital_openlane (1) disconnected node: C0
+Cell sar8_digital_openlane (1) disconnected node: C1
+Cell sar8_digital_openlane (1) disconnected node: C2
+Cell sar8_digital_openlane (1) disconnected node: C3
+Cell sar8_digital_openlane (1) disconnected node: C4
+Cell sar8_digital_openlane (1) disconnected node: C5
+Cell sar8_digital_openlane (1) disconnected node: C6
+Cell sar8_digital_openlane (1) disconnected node: C7
+Cell sar8_digital_openlane (1) disconnected node: VSS
+Class sar8_digital_openlane (0):  Merged 416 parallel devices.
+Equate elements:  no current cell.
+Device classes sar8_digital_openlane and sar8_digital_openlane are equivalent.
+Flattening unmatched subcell capstack in circuit sar8_analog (0)(388 instances)
+Flattening unmatched subcell lswitch in circuit sar8_analog (0)(8 instances)
+
+Class sar8_analog (0):  Merged 748 parallel devices.
+Subcircuit summary:
+Circuit 1: sar8_analog                     |Circuit 2: sar8_analog                     
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__cap_mim_m3_1 (388->14)       |sky130_fd_pr__cap_mim_m3_1 (388->14)       
+sky130_fd_pr__cap_mim_m3_2 (388->14)       |sky130_fd_pr__cap_mim_m3_2 (388->14)       
+tg (18)                                    |tg (18)                                    
+lsdn (10)                                  |lsdn (10)                                  
+cmp (1)                                    |cmp (1)                                    
+lsup (9)                                   |lsup (9)                                   
+Number of devices: 66                      |Number of devices: 66                      
+Number of nets: 68                         |Number of nets: 68                         
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match with 3 symmetries.
+
+Subcircuit pins:
+Circuit 1: sar8_analog                     |Circuit 2: sar8_analog                     
+-------------------------------------------|-------------------------------------------
+VREF                                       |VREF                                       
+DVDD                                       |DVDD                                       
+IB                                         |IB                                         
+C6                                         |C6                                         
+C4                                         |C4                                         
+C3                                         |C3                                         
+C1                                         |C1                                         
+C0                                         |C0                                         
+C2                                         |C2                                         
+C5                                         |C5                                         
+C7                                         |C7                                         
+SH                                         |SH                                         
+COMP_OUT                                   |COMP_OUT                                   
+VIN                                        |VIN                                        
+AVDD                                       |AVDD                                       
+VSS                                        |VSS                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sar8_analog and sar8_analog are equivalent.
+
+Subcircuit summary:
+Circuit 1: sar8                            |Circuit 2: sar8                            
+-------------------------------------------|-------------------------------------------
+sar8_digital_openlane (1)                  |sar8_digital_openlane (1)                  
+sar8_analog (1)                            |sar8_analog (1)                            
+Number of devices: 2                       |Number of devices: 2                       
+Number of nets: 21                         |Number of nets: 21                         
+---------------------------------------------------------------------------------------
+NET mismatches: Class fragments follow (with fanout counts):
+Circuit 1: sar8                            |Circuit 2: sar8                            
+
+---------------------------------------------------------------------------------------
+Net: VSS                                   |Net: VSS                                   
+  sar8_digital_openlane/VSS = 1            |  sar8_digital_openlane/VSS = 1            
+  sar8_analog/VSS = 1                      |  sar8_analog/VSS = 1                      
+                                           |                                           
+Net: sar8_analog_0/SH                      |Net: net9                                  
+  sar8_digital_openlane/SH = 1             |  sar8_digital_openlane/C7 = 1             
+  sar8_analog/SH = 1                       |  sar8_analog/C7 = 1                       
+                                           |                                           
+Net: sar8_analog_0/COMP_OUT                |Net: net8                                  
+  sar8_digital_openlane/COMP_IN = 1        |  sar8_digital_openlane/C6 = 1             
+  sar8_analog/COMP_OUT = 1                 |  sar8_analog/C6 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C7                      |Net: net7                                  
+  sar8_digital_openlane/C7 = 1             |  sar8_digital_openlane/C5 = 1             
+  sar8_analog/C7 = 1                       |  sar8_analog/C5 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C6                      |Net: net6                                  
+  sar8_digital_openlane/C6 = 1             |  sar8_digital_openlane/C4 = 1             
+  sar8_analog/C6 = 1                       |  sar8_analog/C4 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C5                      |Net: net5                                  
+  sar8_digital_openlane/C5 = 1             |  sar8_digital_openlane/C3 = 1             
+  sar8_analog/C5 = 1                       |  sar8_analog/C3 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C4                      |Net: net4                                  
+  sar8_digital_openlane/C4 = 1             |  sar8_digital_openlane/C2 = 1             
+  sar8_analog/C4 = 1                       |  sar8_analog/C2 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C3                      |Net: net3                                  
+  sar8_digital_openlane/C3 = 1             |  sar8_digital_openlane/C1 = 1             
+  sar8_analog/C3 = 1                       |  sar8_analog/C1 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C1                      |Net: net2                                  
+  sar8_digital_openlane/C1 = 1             |  sar8_digital_openlane/C0 = 1             
+  sar8_analog/C1 = 1                       |  sar8_analog/C0 = 1                       
+                                           |                                           
+Net: sar8_analog_0/C2                      |Net: net1                                  
+  sar8_digital_openlane/C2 = 1             |  sar8_digital_openlane/SH = 1             
+  sar8_analog/C2 = 1                       |  sar8_analog/SH = 1                       
+                                           |                                           
+Net: sar8_analog_0/C0                      |Net: COMP                                  
+  sar8_digital_openlane/C0 = 1             |  sar8_digital_openlane/COMP_IN = 1        
+  sar8_analog/C0 = 1                       |  sar8_analog/COMP_OUT = 1                 
+                                           |                                           
+Net: DVDD                                  |Net: DVDD                                  
+  sar8_digital_openlane/DVDD = 1           |  sar8_digital_openlane/DVDD = 1           
+  sar8_analog/DVDD = 1                     |  sar8_analog/DVDD = 1                     
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Net: CNV_BUSY                              |Net: CNV_BUSY                              
+  sar8_digital_openlane/CNV_BUSY = 1       |  sar8_digital_openlane/CNV_BUSY = 1       
+                                           |                                           
+Net: SDO                                   |Net: SDO                                   
+  sar8_digital_openlane/SDO = 1            |  sar8_digital_openlane/SDO = 1            
+                                           |                                           
+Net: SCLK                                  |Net: SCLK                                  
+  sar8_digital_openlane/SCLK = 1           |  sar8_digital_openlane/SCLK = 1           
+                                           |                                           
+Net: RESET                                 |Net: RESET                                 
+  sar8_digital_openlane/RESET = 1          |  sar8_digital_openlane/RESET = 1          
+                                           |                                           
+Net: CS                                    |Net: CS                                    
+  sar8_digital_openlane/CS = 1             |  sar8_digital_openlane/CS = 1             
+---------------------------------------------------------------------------------------
+DEVICE mismatches: Class fragments follow (with node fanout counts):
+Circuit 1: sar8                            |Circuit 2: sar8                            
+
+---------------------------------------------------------------------------------------
+Instance: sar8_digital_openlane_0          |Instance: sar8_digital_openlane:1          
+  CS = 1                                   |  CS = 1                                   
+  RESET = 1                                |  RESET = 1                                
+  SCLK = 1                                 |  SCLK = 1                                 
+  SDO = 1                                  |  SDO = 1                                  
+  SH = 2                                   |  SH = 2                                   
+  CNV_BUSY = 1                             |  CNV_BUSY = 1                             
+  C0 = 2                                   |  C0 = 2                                   
+  C2 = 2                                   |  C2 = 2                                   
+  C1 = 2                                   |  C1 = 2                                   
+  C3 = 2                                   |  C3 = 2                                   
+  C4 = 2                                   |  C4 = 2                                   
+  C5 = 2                                   |  C5 = 2                                   
+  C6 = 2                                   |  C6 = 2                                   
+  C7 = 2                                   |  C7 = 2                                   
+  COMP_IN = 2                              |  COMP_IN = 2                              
+  VSS = 2                                  |  VSS = 2                                  
+  DVDD = 2                                 |  DVDD = 2                                 
+---------------------------------------------------------------------------------------
+Netlists do not match.
+
+Subcircuit pins:
+Circuit 1: sar8                            |Circuit 2: sar8                            
+-------------------------------------------|-------------------------------------------
+DVDD                                       |VSS **Mismatch**                           
+VSS                                        |(no matching pin)                          
+CNV_BUSY                                   |CNV_BUSY                                   
+SDO                                        |SDO                                        
+SCLK                                       |SCLK                                       
+RESET                                      |RESET                                      
+CS                                         |CS                                         
+AVDD                                       |AVDD                                       
+VIN                                        |VIN                                        
+IB                                         |IB                                         
+VREF                                       |VREF                                       
+(no matching pin)                          |DVDD                                       
+VSS                                        |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists for sar8 and sar8 altered to match.
+Device classes sar8 and sar8 are equivalent.
+
+Final result: Top level cell failed pin matching.
