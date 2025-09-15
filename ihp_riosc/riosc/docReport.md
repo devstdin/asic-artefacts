@@ -2,7 +2,7 @@
 
 # Ring Oscillator
 
-Ring oscillator with enable pin.
+6 bit trimmable ring oscillator with enable pin.
 
 ![riosc](resources/riosc.png "riosc")
 

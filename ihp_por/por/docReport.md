@@ -1,8 +1,8 @@
 30.08.2025, 00:16:14
 
-# Vth Current Reference
+# Power-on-Reset
 
-3 uA current reference with source- and sink-port.
+Simple power-on-reset.
 
 ![vthref](resources/por.png "por")
 

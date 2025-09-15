@@ -1,4 +1,4 @@
-11.09.2025, 23:20:30
+15.09.2025, 20:08:13
 
 # Beta-Multiplier Bandgap OTA
 
