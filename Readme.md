@@ -1,6 +1,10 @@
 | Design | PDK | Description |
 | ------ | --- | ----------- |
-| [vthref](ihp_vthref/Readme.md) | ihp | 3 uA current reference |
+| [bmbg](ihp_bmbg/Readme.md) | ihp | Beta-multiplier bandgap |
+| [ldo](ihp_ldo/Readme.md) | ihp | 1.5 V linear regulator |
+| [por](ihp_por/Readme.md) | ihp | Power-on-reset |
+| [riosc](ihp_riosc/Readme.md) | ihp | Ring oscillator with enable pin |
+| [vthref](ihp_vthref/Readme.md) | ihp | 6 uA current reference |
 | [bmbg](sky130_bmbg/Readme.md) | sky130 | Beta-Multiplier Bandgap |
 | [ldo](sky130_ldo/Readme.md) | sky130 | 1.8 V linear regulator |
 | [riosc](sky130_riosc/Readme.md) | sky130 | Ring oscillator with enable pin |

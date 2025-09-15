@@ -1,0 +1,118 @@
+
+Circuit 1 cell sg13_hv_nmos and Circuit 2 cell sg13_hv_nmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_nmos                    |Circuit 2: sg13_hv_nmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_nmos and sg13_hv_nmos are equivalent.
+
+Circuit 1 cell sg13_lv_nmos and Circuit 2 cell sg13_lv_nmos are black boxes.
+Warning: Equate pins:  cell sg13_lv_nmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_lv_nmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_lv_nmos                    |Circuit 2: sg13_lv_nmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_lv_nmos and sg13_lv_nmos are equivalent.
+
+Circuit 1 cell sg13_hv_pmos and Circuit 2 cell sg13_hv_pmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_pmos                    |Circuit 2: sg13_hv_pmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_pmos and sg13_hv_pmos are equivalent.
+
+Circuit 1 cell rhigh and Circuit 2 cell rhigh are black boxes.
+Warning: Equate pins:  cell rhigh is a placeholder, treated as a black box.
+Warning: Equate pins:  cell rhigh is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: rhigh                           |Circuit 2: rhigh                           
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes rhigh and rhigh are equivalent.
+
+Circuit 1 cell dpantenna and Circuit 2 cell dpantenna are black boxes.
+Warning: Equate pins:  cell dpantenna is a placeholder, treated as a black box.
+Warning: Equate pins:  cell dpantenna is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: dpantenna                       |Circuit 2: dpantenna                       
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes dpantenna and dpantenna are equivalent.
+Flattening unmatched subcell hvnmos_4SLWUS in circuit vthref (0)(1 instance)
+Flattening unmatched subcell lvnmos_RVV4EF in circuit vthref (0)(1 instance)
+Flattening unmatched subcell hvnmos_QQE73P in circuit vthref (0)(3 instances)
+Flattening unmatched subcell hvpmos_NE86AY in circuit vthref (0)(5 instances)
+Flattening unmatched subcell rhigh_65D4BW in circuit vthref (0)(1 instance)
+Flattening unmatched subcell dpantenna_BSFU4Q in circuit vthref (0)(1 instance)
+Flattening unmatched subcell lvnmos_533TXK in circuit vthref (0)(3 instances)
+Flattening unmatched subcell hvnmos_RVVQDP in circuit vthref (0)(1 instance)
+Flattening unmatched subcell rhigh_RJR7YG in circuit vthref (0)(1 instance)
+
+Removing zero-valued device vsrc from cell vthref (1) makes a better match
+Removing zero-valued device vsrc from cell vthref (1) makes a better match
+Removing zero-valued device vsrc from cell vthref (1) makes a better match
+Making another compare attempt.
+
+Class vthref (0):  Merged 73 parallel devices.
+Class vthref (0):  Merged 1 series devices.
+Subcircuit summary:
+Circuit 1: vthref                          |Circuit 2: vthref                          
+-------------------------------------------|-------------------------------------------
+sg13_hv_nmos (26->5)                       |sg13_hv_nmos (26->5)                       
+sg13_lv_nmos (31->4)                       |sg13_lv_nmos (31->4)                       
+sg13_hv_pmos (30->5)                       |sg13_hv_pmos (30->5)                       
+rhigh (3->2)                               |rhigh (2)                                  
+dpantenna (1)                              |dpantenna (1)                              
+Number of devices: 17                      |Number of devices: 17                      
+Number of nets: 13                         |Number of nets: 13                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: vthref                          |Circuit 2: vthref                          
+-------------------------------------------|-------------------------------------------
+ISOURCE                                    |ISOURCE                                    
+ISINK                                      |ISINK                                      
+VDD                                        |VDD                                        
+VSOURCE                                    |VSOURCE                                    
+VSS                                        |VSS                                        
+VSINKB                                     |VSINKB                                     
+VSINKT                                     |VSINKT                                     
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes vthref and vthref are equivalent.
+
+Final result: Circuits match uniquely.
+.

@@ -1,0 +1,80 @@
+
+Circuit 1 cell sg13_hv_nmos and Circuit 2 cell sg13_hv_nmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_nmos                    |Circuit 2: sg13_hv_nmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_nmos and sg13_hv_nmos are equivalent.
+
+Circuit 1 cell sg13_hv_pmos and Circuit 2 cell sg13_hv_pmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_pmos                    |Circuit 2: sg13_hv_pmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_pmos and sg13_hv_pmos are equivalent.
+
+Circuit 1 cell cap_cmim and Circuit 2 cell cap_cmim are black boxes.
+Warning: Equate pins:  cell cap_cmim is a placeholder, treated as a black box.
+Warning: Equate pins:  cell cap_cmim is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: cap_cmim                        |Circuit 2: cap_cmim                        
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes cap_cmim and cap_cmim are equivalent.
+Flattening unmatched subcell hvnmos_WF38FF in circuit por (0)(1 instance)
+Flattening unmatched subcell hvpmos_XF38FF in circuit por (0)(1 instance)
+Flattening unmatched subcell hvpmos_7J3G3K in circuit por (0)(1 instance)
+Flattening unmatched subcell hvnmos_4SCLER in circuit por (0)(1 instance)
+Flattening unmatched subcell hvnmos_NH3G3K in circuit por (0)(1 instance)
+Flattening unmatched subcell cmim_XD4LYE in circuit por (0)(1 instance)
+Flattening unmatched subcell hvpmos_MRCLER in circuit por (0)(1 instance)
+Flattening unmatched subcell hvpmos_UG3GPR in circuit por (0)(1 instance)
+
+Removing zero-valued device vsrc from cell por (1) makes a better match
+Making another compare attempt.
+
+Class por (0):  Merged 43 parallel devices.
+Subcircuit summary:
+Circuit 1: por                             |Circuit 2: por                             
+-------------------------------------------|-------------------------------------------
+sg13_hv_nmos (25->7)                       |sg13_hv_nmos (7)                           
+sg13_hv_pmos (29->11)                      |sg13_hv_pmos (11)                          
+cap_cmim (8->1)                            |cap_cmim (8->1)                            
+Number of devices: 19                      |Number of devices: 19                      
+Number of nets: 14                         |Number of nets: 14                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: por                             |Circuit 2: por                             
+-------------------------------------------|-------------------------------------------
+VDD                                        |VDD                                        
+IBIAS                                      |IBIAS                                      
+VSS                                        |VSS                                        
+RESET                                      |RESET                                      
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes por and por are equivalent.
+
+Final result: Circuits match uniquely.
+.

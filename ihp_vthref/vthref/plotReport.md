@@ -1,66 +1,196 @@
 
 # DC Performance<br>
 
-| ![xyplot_84f2a33e276075a3556ce984a03885e4_9065882294add75c79e9b94f79f54a31](xyplot_84f2a33e276075a3556ce984a03885e4_9065882294add75c79e9b94f79f54a31.png "") |
+| ![xyplot_f317c35da26492f0b2564c148cb17756_ceebb7408b00e8507fe2a1764edde119](xyplot_f317c35da26492f0b2564c148cb17756_ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
+
+
+| ![xyplot_5f00563900609c508dc0f840c82f10f1_ceebb7408b00e8507fe2a1764edde119](xyplot_5f00563900609c508dc0f840c82f10f1_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+
+| ![xyplot_557aa1eda6d043d5cf946fe5bc580e93_ceebb7408b00e8507fe2a1764edde119](xyplot_557aa1eda6d043d5cf946fe5bc580e93_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+<details><summary>...</summary>
+
+| ![xyplot_fb34c7afc52d0d9fcdc14f7c30f15b76_ceebb7408b00e8507fe2a1764edde119](xyplot_fb34c7afc52d0d9fcdc14f7c30f15b76_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_651cbc9a4b63ad26e4314ecc79819347_ceebb7408b00e8507fe2a1764edde119](xyplot_651cbc9a4b63ad26e4314ecc79819347_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
 <br>
 
-| ![xyplot_a7073ae979f15dfb23342fa8cc5d8590_9065882294add75c79e9b94f79f54a31](xyplot_a7073ae979f15dfb23342fa8cc5d8590_9065882294add75c79e9b94f79f54a31.png "") |
+| ![xyplot_2e159e36332d2cdf615a405d77819f66_ceebb7408b00e8507fe2a1764edde119](xyplot_2e159e36332d2cdf615a405d77819f66_ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
+
+<details><summary>...</summary>
+
+| ![xyplot_1f1023e977944731c4267339fce74ed2_ceebb7408b00e8507fe2a1764edde119](xyplot_1f1023e977944731c4267339fce74ed2_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_e0c67093c799fe735d160e06f6c45278_ceebb7408b00e8507fe2a1764edde119](xyplot_e0c67093c799fe735d160e06f6c45278_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
 <br>
 
-| ![xyplot_fa7ee57fe3a8febf0ae206552fe7dc7d_9065882294add75c79e9b94f79f54a31](xyplot_fa7ee57fe3a8febf0ae206552fe7dc7d_9065882294add75c79e9b94f79f54a31.png "") |
+| ![xyplot_cbc299d7f601da37fdc8d69098eac452_ceebb7408b00e8507fe2a1764edde119](xyplot_cbc299d7f601da37fdc8d69098eac452_ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
+
+<details><summary>...</summary>
+
+| ![xyplot_3a7bbd145bf96332fae43fc7bef80585_ceebb7408b00e8507fe2a1764edde119](xyplot_3a7bbd145bf96332fae43fc7bef80585_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_ab07605d9ba7ec46bd1078e8c415abaf_ceebb7408b00e8507fe2a1764edde119](xyplot_ab07605d9ba7ec46bd1078e8c415abaf_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
 <br>
 
-| ![xyplot_31d35c54c4ab4cb8d319478a2014bd59_9065882294add75c79e9b94f79f54a31](xyplot_31d35c54c4ab4cb8d319478a2014bd59_9065882294add75c79e9b94f79f54a31.png "") |
+| ![xyplot_e2cf4f3c46ec43968379404b09d2a8ac_ceebb7408b00e8507fe2a1764edde119](xyplot_e2cf4f3c46ec43968379404b09d2a8ac_ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
+
+<details><summary>...</summary>
+
+| ![xyplot_e88c93cc2907acc9ba01551be9706bae_ceebb7408b00e8507fe2a1764edde119](xyplot_e88c93cc2907acc9ba01551be9706bae_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_35c7a2aa7454c5055f3b90887707438f_ceebb7408b00e8507fe2a1764edde119](xyplot_35c7a2aa7454c5055f3b90887707438f_ceebb7408b00e8507fe2a1764edde119.png "") |
+| :-- |
+|  |
+
+</details>
 <br>
 
-| ![xyplot_b31b8c4d00919bd60e2c245e7e17a9cf_9065882294add75c79e9b94f79f54a31](xyplot_b31b8c4d00919bd60e2c245e7e17a9cf_9065882294add75c79e9b94f79f54a31.png "") |
+| ![xyplot_f4d87d732aef60de402e5bdfd2d5b74a_ceebb7408b00e8507fe2a1764edde119](xyplot_f4d87d732aef60de402e5bdfd2d5b74a_ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
-<br>
 
-| ![xyplot_92e252e700a00cbef841008c9f2b2502_9065882294add75c79e9b94f79f54a31](xyplot_92e252e700a00cbef841008c9f2b2502_9065882294add75c79e9b94f79f54a31.png "") |
-| :-- |
-|  |
-<br>
 
-| ![xyplot_e4e2cfe90adca541ef9647a2e1626375_9065882294add75c79e9b94f79f54a31](xyplot_e4e2cfe90adca541ef9647a2e1626375_9065882294add75c79e9b94f79f54a31.png "") |
+| ![occtplot_temp-sweep_('h-tt_l-tt_b-typ_r-typ_c-typ',_-2)__ceebb7408b00e8507fe2a1764edde119](occtplot_temp-sweep_('h-tt_l-tt_b-typ_r-typ_c-typ',_-2)__ceebb7408b00e8507fe2a1764edde119.png "") |
 | :-- |
 |  |
-<br>
 
-| ![occtplot_temp-sweep_('tt_typ',_-2)__9065882294add75c79e9b94f79f54a31](occtplot_temp-sweep_('tt_typ',_-2)__9065882294add75c79e9b94f79f54a31.png "") |
-| :-- |
-|  |
-<br>
 
 # DC Performance (Monte Carlo)<br>
 
-| ![histplot_sink_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_sink_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "vdd: 3.3 V<br>tt_typ_stat_mc: (mos_tt_stat, res_typ_stat, cap_typ_stat)<br>tt_typ_mismatch_mc: (mos_tt_mismatch, res_typ_mismatch, cap_typ_mismatch)") |
+| ![histplot_sink_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_sink_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
 | :-- |
-| vdd: 3.3 V<br>tt_typ_stat_mc: (mos_tt_stat, res_typ_stat, cap_typ_stat)<br>tt_typ_mismatch_mc: (mos_tt_mismatch, res_typ_mismatch, cap_typ_mismatch) |
-<br>
+|  |
 
-| ![histplot_source_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_source_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "vdd: 3.3 V<br>tt_typ_stat_mc: (mos_tt_stat, res_typ_stat, cap_typ_stat)<br>tt_typ_mismatch_mc: (mos_tt_mismatch, res_typ_mismatch, cap_typ_mismatch)") |
+
+| ![histplot_source_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_source_ppgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
 | :-- |
-| vdd: 3.3 V<br>tt_typ_stat_mc: (mos_tt_stat, res_typ_stat, cap_typ_stat)<br>tt_typ_mismatch_mc: (mos_tt_mismatch, res_typ_mismatch, cap_typ_mismatch) |
+|  |
+
+
+| ![histplot_source_maxgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_source_maxgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
+| :-- |
+|  |
+
+
+| ![histplot_source_mingroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_source_mingroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
+| :-- |
+|  |
+
+
+| ![histplot_sink_maxgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_sink_maxgroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
+| :-- |
+|  |
+
+
+| ![histplot_sink_mingroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4](histplot_sink_mingroup_('tt_typ_stat_mc',_-2),_('tt_typ_mismatch_mc',_-2)__02225623633d0f6307e0649078c055a4.png "") |
+| :-- |
+|  |
+
+
+# Transient Performance<br>
+
+| ![xyplot_d7a71760aa3d399d3095571e937329e3_9e35878250679f74019b3b8bd75e019a](xyplot_d7a71760aa3d399d3095571e937329e3_9e35878250679f74019b3b8bd75e019a.png "") |
+| :-- |
+|  |
+
+<details><summary>...</summary>
+
+| ![xyplot_2add7d3d9c0cd245c747b5fc0545ed07_9e35878250679f74019b3b8bd75e019a](xyplot_2add7d3d9c0cd245c747b5fc0545ed07_9e35878250679f74019b3b8bd75e019a.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_332205bd2ed16523a9e91f059ae6427c_9e35878250679f74019b3b8bd75e019a](xyplot_332205bd2ed16523a9e91f059ae6427c_9e35878250679f74019b3b8bd75e019a.png "") |
+| :-- |
+|  |
+
+</details>
 <br>
 
 # AC Noise<br>
 
-| ![xyplot_a14d46770196fc61d6b9cb1d61464ba4_a0a528cf404eb33cda89f239442222a1](xyplot_a14d46770196fc61d6b9cb1d61464ba4_a0a528cf404eb33cda89f239442222a1.png "") |
+| ![xyplot_77e18bab5f89f6de6a70c1bb95be60fd_75b7a2d8199a5a9a1b556c4fd90b475f](xyplot_77e18bab5f89f6de6a70c1bb95be60fd_75b7a2d8199a5a9a1b556c4fd90b475f.png "") |
 | :-- |
 |  |
-<br>
 
-| ![xyplot_a14d46770196fc61d6b9cb1d61464ba4_c56fe5cdfb111756b2165f2bb9899efe](xyplot_a14d46770196fc61d6b9cb1d61464ba4_c56fe5cdfb111756b2165f2bb9899efe.png "") |
+
+| ![xyplot_77e18bab5f89f6de6a70c1bb95be60fd_3d26ca5289fa041cea8e36b1f835bed2](xyplot_77e18bab5f89f6de6a70c1bb95be60fd_3d26ca5289fa041cea8e36b1f835bed2.png "") |
 | :-- |
 |  |
+
+
+# Transient Performance (PEX)<br>
+
+| ![xyplot_d7a71760aa3d399d3095571e937329e3_3dffd9ff0eafc26799132922d571475c](xyplot_d7a71760aa3d399d3095571e937329e3_3dffd9ff0eafc26799132922d571475c.png "") |
+| :-- |
+|  |
+
+<details><summary>...</summary>
+
+| ![xyplot_2add7d3d9c0cd245c747b5fc0545ed07_3dffd9ff0eafc26799132922d571475c](xyplot_2add7d3d9c0cd245c747b5fc0545ed07_3dffd9ff0eafc26799132922d571475c.png "") |
+| :-- |
+|  |
+
+</details>
+<br>
+<details><summary>...</summary>
+
+| ![xyplot_332205bd2ed16523a9e91f059ae6427c_3dffd9ff0eafc26799132922d571475c](xyplot_332205bd2ed16523a9e91f059ae6427c_3dffd9ff0eafc26799132922d571475c.png "") |
+| :-- |
+|  |
+
+</details>
 <br>

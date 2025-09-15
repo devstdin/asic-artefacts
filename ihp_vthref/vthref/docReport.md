@@ -1,4 +1,4 @@
-06.04.2025, 14:24:42
+16.07.2025, 06:23:26
 
 # Vth Current Reference
 
@@ -13,7 +13,7 @@
 
 > xschem: 3.4.6<br>
 > ngspice: 44.2<br>
-> magic: 8.3.522<br>
+> magic: 8.3.530<br>
 > netgen: 1.5.293<br>
 > ihpopenpdk: dev<br>
 </details><br>

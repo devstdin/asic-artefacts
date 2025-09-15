@@ -1,0 +1,136 @@
+
+Circuit 1 cell sg13_hv_pmos and Circuit 2 cell sg13_hv_pmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_pmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_pmos                    |Circuit 2: sg13_hv_pmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_pmos and sg13_hv_pmos are equivalent.
+
+Circuit 1 cell sg13_hv_nmos and Circuit 2 cell sg13_hv_nmos are black boxes.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sg13_hv_nmos is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sg13_hv_nmos                    |Circuit 2: sg13_hv_nmos                    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sg13_hv_nmos and sg13_hv_nmos are equivalent.
+
+Circuit 1 cell rppd and Circuit 2 cell rppd are black boxes.
+Warning: Equate pins:  cell rppd is a placeholder, treated as a black box.
+Warning: Equate pins:  cell rppd is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: rppd                            |Circuit 2: rppd                            
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes rppd and rppd are equivalent.
+
+Circuit 1 cell cap_cmim and Circuit 2 cell cap_cmim are black boxes.
+Warning: Equate pins:  cell cap_cmim is a placeholder, treated as a black box.
+Warning: Equate pins:  cell cap_cmim is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: cap_cmim                        |Circuit 2: cap_cmim                        
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes cap_cmim and cap_cmim are equivalent.
+
+Circuit 1 cell rhigh and Circuit 2 cell rhigh are black boxes.
+Warning: Equate pins:  cell rhigh is a placeholder, treated as a black box.
+Warning: Equate pins:  cell rhigh is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: rhigh                           |Circuit 2: rhigh                           
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes rhigh and rhigh are equivalent.
+Flattening unmatched subcell hvpmos_2L3PPE in circuit ldoota (0)(1 instance)
+Flattening unmatched subcell hvpmos_8GEZJN in circuit ldoota (0)(3 instances)
+Flattening unmatched subcell hvnmos_8GE7KN in circuit ldoota (0)(3 instances)
+Flattening unmatched subcell rppd_PAUPFW in circuit ldoota (0)(1 instance)
+Flattening unmatched subcell cmim_KCDMMN in circuit ldoota (0)(1 instance)
+Flattening unmatched subcell hvpmos_5SRWXM in circuit ldoota (0)(1 instance)
+Flattening unmatched subcell hvnmos_2L3PPE in circuit ldoota (0)(2 instances)
+Flattening unmatched subcell hvnmos_84A7KN in circuit ldoota (0)(1 instance)
+Flattening unmatched subcell hvnmos_2L3HPE in circuit ldoota (0)(1 instance)
+
+Class ldoota (0):  Merged 96 parallel devices.
+Subcircuit summary:
+Circuit 1: ldoota                          |Circuit 2: ldoota                          
+-------------------------------------------|-------------------------------------------
+sg13_hv_pmos (56->5)                       |sg13_hv_pmos (56->5)                       
+sg13_hv_nmos (44->7)                       |sg13_hv_nmos (44->7)                       
+rppd (1)                                   |rppd (1)                                   
+cap_cmim (9->1)                            |cap_cmim (9->1)                            
+Number of devices: 14                      |Number of devices: 14                      
+Number of nets: 12                         |Number of nets: 12                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: ldoota                          |Circuit 2: ldoota                          
+-------------------------------------------|-------------------------------------------
+INP                                        |INP                                        
+INN                                        |INN                                        
+VOUT                                       |VOUT                                       
+VSS                                        |VSS                                        
+VDD                                        |VDD                                        
+IB                                         |IB                                         
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes ldoota and ldoota are equivalent.
+Flattening unmatched subcell rhigh_BJZ3BW in circuit ldo (0)(1 instance)
+Flattening unmatched subcell rhigh_KA4Q3N in circuit ldo (0)(1 instance)
+
+Class ldo (0):  Merged 4 series devices.
+Subcircuit summary:
+Circuit 1: ldo                             |Circuit 2: ldo                             
+-------------------------------------------|-------------------------------------------
+rhigh (6->2)                               |rhigh (2)                                  
+ldoota (1)                                 |ldoota (1)                                 
+Number of devices: 3                       |Number of devices: 3                       
+Number of nets: 7                          |Number of nets: 7                          
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: ldo                             |Circuit 2: ldo                             
+-------------------------------------------|-------------------------------------------
+VDD                                        |VDD                                        
+IB                                         |IB                                         
+FBIN                                       |FBIN                                       
+VREF                                       |VREF                                       
+VLDO                                       |VLDO                                       
+FBOUT                                      |FBOUT                                      
+VSS                                        |VSS                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes ldo and ldo are equivalent.
+
+Final result: Circuits match uniquely.
+.
